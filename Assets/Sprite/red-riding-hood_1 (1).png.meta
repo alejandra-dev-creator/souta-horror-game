@@ -1,0 +1,1351 @@
+fileFormatVersion: 2
+guid: 7610549fe62990e42a00a1f44b56fa3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4384028104959952257
+    second: red-riding-hood_1 (1)_0
+  - first:
+      213: -3255425940321737364
+    second: red-riding-hood_1 (1)_1
+  - first:
+      213: 7474229084208632926
+    second: red-riding-hood_1 (1)_2
+  - first:
+      213: -1949458707752260880
+    second: red-riding-hood_1 (1)_3
+  - first:
+      213: 2833504028756143499
+    second: red-riding-hood_1 (1)_4
+  - first:
+      213: 7786850365171154386
+    second: red-riding-hood_1 (1)_5
+  - first:
+      213: -1494945359108102038
+    second: red-riding-hood_1 (1)_6
+  - first:
+      213: -1027191580862019688
+    second: red-riding-hood_1 (1)_7
+  - first:
+      213: 424337867532559916
+    second: red-riding-hood_1 (1)_8
+  - first:
+      213: -9171321102829295020
+    second: red-riding-hood_1 (1)_9
+  - first:
+      213: 4841919680562312422
+    second: red-riding-hood_1 (1)_10
+  - first:
+      213: -949722898384770922
+    second: red-riding-hood_1 (1)_11
+  - first:
+      213: 2562613129268818487
+    second: red-riding-hood_1 (1)_12
+  - first:
+      213: 1775814760629881726
+    second: red-riding-hood_1 (1)_13
+  - first:
+      213: 5020131575156549558
+    second: red-riding-hood_1 (1)_14
+  - first:
+      213: 1883686356545145257
+    second: red-riding-hood_1 (1)_15
+  - first:
+      213: 1036185653992515323
+    second: red-riding-hood_1 (1)_16
+  - first:
+      213: -6807129265127396278
+    second: red-riding-hood_1 (1)_17
+  - first:
+      213: 7995051003046689341
+    second: red-riding-hood_1 (1)_18
+  - first:
+      213: 9212138854070348046
+    second: red-riding-hood_1 (1)_19
+  - first:
+      213: 2864363832835063270
+    second: red-riding-hood_1 (1)_20
+  - first:
+      213: 1670807672413475680
+    second: red-riding-hood_1 (1)_21
+  - first:
+      213: 1188758994175422449
+    second: red-riding-hood_1 (1)_22
+  - first:
+      213: -8309122417211303623
+    second: red-riding-hood_1 (1)_23
+  - first:
+      213: -548544928099146869
+    second: red-riding-hood_1 (1)_24
+  - first:
+      213: 207172966387231116
+    second: red-riding-hood_1 (1)_25
+  - first:
+      213: 1109320532066755445
+    second: red-riding-hood_1 (1)_26
+  - first:
+      213: -4986392782134808078
+    second: red-riding-hood_1 (1)_27
+  - first:
+      213: -2853023865088659716
+    second: red-riding-hood_1 (1)_28
+  - first:
+      213: -2638331463996906276
+    second: red-riding-hood_1 (1)_29
+  - first:
+      213: 8442945746638840585
+    second: red-riding-hood_1 (1)_30
+  - first:
+      213: -5957622476379649182
+    second: red-riding-hood_1 (1)_31
+  - first:
+      213: 2312567134883948792
+    second: red-riding-hood_1 (1)_32
+  - first:
+      213: -3353885026953080104
+    second: red-riding-hood_1 (1)_33
+  - first:
+      213: -603491670699935207
+    second: red-riding-hood_1 (1)_34
+  - first:
+      213: -7694374696145480382
+    second: red-riding-hood_1 (1)_35
+  - first:
+      213: -6692596072807535784
+    second: red-riding-hood_1 (1)_36
+  - first:
+      213: -4874097932256464757
+    second: red-riding-hood_1 (1)_37
+  - first:
+      213: 7709543192188924900
+    second: red-riding-hood_1 (1)_38
+  - first:
+      213: -3980714431657696548
+    second: red-riding-hood_1 (1)_39
+  - first:
+      213: -8462232786559483455
+    second: red-riding-hood_1 (1)_40
+  - first:
+      213: -4530394916472199567
+    second: red-riding-hood_1 (1)_41
+  - first:
+      213: 8009277111628527250
+    second: red-riding-hood_1 (1)_42
+  - first:
+      213: 4180253898080298384
+    second: red-riding-hood_1 (1)_43
+  - first:
+      213: -8351775923756833804
+    second: red-riding-hood_1 (1)_44
+  - first:
+      213: -2193700396854800846
+    second: red-riding-hood_1 (1)_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 18
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5346923, y: 0.531734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a78868aadc823c0800000000000000
+      internalID: -4384028104959952257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65e782fa5762d2d0800000000000000
+      internalID: -3255425940321737364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 192
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54162e70cbc9b760800000000000000
+      internalID: 7474229084208632926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 192
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa622c42a122f4e0800000000000000
+      internalID: -1949458707752260880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 192
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8de5afc6e0a25720800000000000000
+      internalID: 2833504028756143499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 192
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddb52f8623701c60800000000000000
+      internalID: 7786850365171154386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 192
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a682ebfcd13e04be0800000000000000
+      internalID: -1494945359108102038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 192
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897827213beaeb1f0800000000000000
+      internalID: -1027191580862019688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c266603da0d83e500800000000000000
+      internalID: 424337867532559916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ae0d87c0ce8b080800000000000000
+      internalID: -9171321102829295020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 160
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4b3eebb44f13340800000000000000
+      internalID: 4841919680562312422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 130
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698a8b64e08e1d2f0800000000000000
+      internalID: -949722898384770922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 160
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732f1d2501b309320800000000000000
+      internalID: 2562613129268818487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 160
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b4d3abd16f4a810800000000000000
+      internalID: 1775814760629881726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 159
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7adeed1171ba540800000000000000
+      internalID: 5020131575156549558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 159
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a98f16d2c2342a10800000000000000
+      internalID: 1883686356545145257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 130
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf66493cc55416e00800000000000000
+      internalID: 1036185653992515323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 160
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c6ae3cff73881a0800000000000000
+      internalID: -6807129265127396278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 160
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a7ab5178024fe60800000000000000
+      internalID: 7995051003046689341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09ef62da7718df70800000000000000
+      internalID: 9212138854070348046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 96
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed3c9bdab340c720800000000000000
+      internalID: 2864363832835063270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063d33ac9b6ef2710800000000000000
+      internalID: 1670807672413475680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 98
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff6063c1025f7010800000000000000
+      internalID: 1188758994175422449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93992e66f2110bc80800000000000000
+      internalID: -8309122417211303623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 97
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83ee415b4d2368f0800000000000000
+      internalID: -548544928099146869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 95
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89239c17b600e200800000000000000
+      internalID: 207172966387231116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573e2ef7529156f00800000000000000
+      internalID: 1109320532066755445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 95
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f178460f26cccab0800000000000000
+      internalID: -4986392782134808078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 95
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeada129e50868d0800000000000000
+      internalID: -2853023865088659716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd46ab01383c26bd0800000000000000
+      internalID: -2638331463996906276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903ad468c6e5b2570800000000000000
+      internalID: 8442945746638840585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b028d2ce5425da0800000000000000
+      internalID: -5957622476379649182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 64
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f820028e83e71020800000000000000
+      internalID: 2312567134883948792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 64
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2d5fe665b9471d0800000000000000
+      internalID: -3353885026953080104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91af50fd587ff97f0800000000000000
+      internalID: -603491670699935207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2459e7bfaf6183590800000000000000
+      internalID: -7694374696145480382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85be127a45f1f13a0800000000000000
+      internalID: -6692596072807535784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80336331c9bb5cb0800000000000000
+      internalID: -4874097932256464757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3b3f6bfaccdfa60800000000000000
+      internalID: 7709543192188924900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 32
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2a5cca059a1c8c0800000000000000
+      internalID: -3980714431657696548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1457e8d1c109a80800000000000000
+      internalID: -8462232786559483455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 31
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176607793ddc021c0800000000000000
+      internalID: -4530394916472199567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296f84a191ba62f60800000000000000
+      internalID: 8009277111628527250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095a40ab5ce330a30800000000000000
+      internalID: 4180253898080298384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f360d40c08881c80800000000000000
+      internalID: -8351775923756833804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e06dd9c196e81e0800000000000000
+      internalID: -2193700396854800846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-riding-hood_1 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 98
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7474d35d5b68f19449ad55c84e7f2d75
+      internalID: 1095081918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 35c75ba3ab11d124681059a8b1c607d6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+    nameFileIdTable:
+      red-riding-hood_1 (1)_0: -4384028104959952257
+      red-riding-hood_1 (1)_1: -3255425940321737364
+      red-riding-hood_1 (1)_10: 4841919680562312422
+      red-riding-hood_1 (1)_11: -949722898384770922
+      red-riding-hood_1 (1)_12: 2562613129268818487
+      red-riding-hood_1 (1)_13: 1775814760629881726
+      red-riding-hood_1 (1)_14: 5020131575156549558
+      red-riding-hood_1 (1)_15: 1883686356545145257
+      red-riding-hood_1 (1)_16: 1036185653992515323
+      red-riding-hood_1 (1)_17: -6807129265127396278
+      red-riding-hood_1 (1)_18: 7995051003046689341
+      red-riding-hood_1 (1)_19: 9212138854070348046
+      red-riding-hood_1 (1)_2: 7474229084208632926
+      red-riding-hood_1 (1)_20: 2864363832835063270
+      red-riding-hood_1 (1)_21: 1670807672413475680
+      red-riding-hood_1 (1)_22: 1188758994175422449
+      red-riding-hood_1 (1)_23: -8309122417211303623
+      red-riding-hood_1 (1)_24: -548544928099146869
+      red-riding-hood_1 (1)_25: 207172966387231116
+      red-riding-hood_1 (1)_26: 1109320532066755445
+      red-riding-hood_1 (1)_27: -4986392782134808078
+      red-riding-hood_1 (1)_28: -2853023865088659716
+      red-riding-hood_1 (1)_29: -2638331463996906276
+      red-riding-hood_1 (1)_3: -1949458707752260880
+      red-riding-hood_1 (1)_30: 8442945746638840585
+      red-riding-hood_1 (1)_31: -5957622476379649182
+      red-riding-hood_1 (1)_32: 2312567134883948792
+      red-riding-hood_1 (1)_33: -3353885026953080104
+      red-riding-hood_1 (1)_34: -603491670699935207
+      red-riding-hood_1 (1)_35: -7694374696145480382
+      red-riding-hood_1 (1)_36: -6692596072807535784
+      red-riding-hood_1 (1)_37: -4874097932256464757
+      red-riding-hood_1 (1)_38: 7709543192188924900
+      red-riding-hood_1 (1)_39: -3980714431657696548
+      red-riding-hood_1 (1)_4: 2833504028756143499
+      red-riding-hood_1 (1)_40: -8462232786559483455
+      red-riding-hood_1 (1)_41: -4530394916472199567
+      red-riding-hood_1 (1)_42: 8009277111628527250
+      red-riding-hood_1 (1)_43: 4180253898080298384
+      red-riding-hood_1 (1)_44: -8351775923756833804
+      red-riding-hood_1 (1)_45: -2193700396854800846
+      red-riding-hood_1 (1)_46: 1095081918
+      red-riding-hood_1 (1)_5: 7786850365171154386
+      red-riding-hood_1 (1)_6: -1494945359108102038
+      red-riding-hood_1 (1)_7: -1027191580862019688
+      red-riding-hood_1 (1)_8: 424337867532559916
+      red-riding-hood_1 (1)_9: -9171321102829295020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

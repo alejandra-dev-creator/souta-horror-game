@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Suelo
+  - Trampa
+  - "Caba\xF1a"
+  - FinalJuego
+  - PlataformaMovil
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Villano
+  - Water
+  - UI
+  - Trampa
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fondo
+    uniqueID: 1288590713
+    locked: 0
+  - name: piso
+    uniqueID: 1717874197
+    locked: 0
+  - name: jugador
+    uniqueID: 2639120665
+    locked: 0
+  - name: trampa
+    uniqueID: 1829437887
+    locked: 0
+  - name: objetos
+    uniqueID: 2185788393
+    locked: 0
+  - name: villano
+    uniqueID: 1565740511
+    locked: 0
+  - name: trampa
+    uniqueID: 3097343371
+    locked: 0
+  - name: "caba\xF1a"
+    uniqueID: 2971454981
+    locked: 0
+  - name: plataforma
+    uniqueID: 2104012999
+    locked: 0
+  m_RenderingLayers:
+  - Default
