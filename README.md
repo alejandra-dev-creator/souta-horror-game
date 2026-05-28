@@ -1,114 +1,199 @@
+<div align="center">
+
 # 🌲 Souta: El Sendero Perdido
 
-<p align="center">
-  <img src="Assets/EscenasDeco/banner-souta.png" width="100%" />
-</p>
+<img src="Assets/EscenasDeco/banner-souta.png" width="100%" />
 
-<h3 align="center">
-✨ A mysterious journey through darkness, survival, and forgotten secrets ✨
-</h3>
+### 🌌 A journey through fear, mystery and forgotten memories 🌌
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7ED6DF&center=true&vCenter=true&width=800&lines=Explore+the+lost+forest+🌲;Fight+creatures+hidden+in+the+darkness+👾;Survive+through+knowledge+🧠;Reach+the+cabin+before+it's+too+late+🏠" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2800&pause=1000&color=7ED6DF&center=true&vCenter=true&width=850&lines=🌲+The+forest+is+watching...;👾+Something+hides+between+the+trees...;🧠+Knowledge+is+your+only+hope...;🏠+Find+the+cabin+before+it's+too+late..." />
+
+✨ Atmospheric 2D Horror Adventure made with Unity ✨
+
+</div>
 
 ---
+
+<div align="center">
 
 # 🎮 About The Game
 
-**Souta: El Sendero Perdido** is a 2D horror-adventure experience developed in Unity, where exploration, survival, and mystery blend into a haunting journey through a forgotten forest.
+╔══════════════════════════════╗  
+🌲 𝑺𝒐𝒖𝒕𝒂: 𝑬𝒍 𝑺𝒆𝒏𝒅𝒆𝒓𝒐 𝑷𝒆𝒓𝒅𝒊𝒅𝒐 🌲  
+╚══════════════════════════════╝  
 
-Deep within the shadows, the player must guide Souta across dangerous paths filled with creatures, hidden dangers, and mysterious challenges while searching for the legendary final cabin — the only hope of escape.
+🌑 ✦ 🌲 ✦ 👁️ ✦ 🌲 ✦ 🌑
 
-But surviving the forest is not only about fighting...
+</div>
 
-Knowledge itself becomes part of the adventure.
+**Souta: El Sendero Perdido** is a 2D horror-adventure experience created with Unity, where mystery, fear, and survival merge into a haunting journey through an abandoned forest lost in darkness.
+
+The player must guide Souta across dangerous paths filled with hostile creatures, hidden secrets, and strange challenges while searching for the legendary cabin hidden deep within the woods.
+
+But the forest is alive.
+
+And it remembers every step.
+
+<div align="center">
+
+✨ *“Some paths are not meant to be found.”* ✨
+
+</div>
 
 ---
 
+<div align="center">
+
 # 🌲 Gameplay Features
 
+╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮  
+⚔️ Survival • 👾 Horror • 🧠 Knowledge  
+╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
+
+</div>
+
+---
+
 ## ⚔️ Dynamic Combat System
-Face hostile creatures that roam through the forest.  
-Attack enemies in close range while avoiding damage and surviving increasingly dangerous encounters.
+
+The darkness is never empty.
+
+Hostile creatures roam endlessly through the forest, waiting silently between the shadows.  
+Fight enemies using close-range combat mechanics while avoiding dangerous attacks and surviving increasingly tense encounters.
+
+<div align="center">
+
+👾 ────── ❖ ────── 👾
+
+*"Fear appears when the silence suddenly disappears."*
+
+</div>
 
 ---
 
 ## ❤️ Survival Mechanics
-Health is limited, and every decision matters.  
-Collect healing potions, avoid enemy attacks, and stay alive long enough to uncover the truth hidden in the woods.
+
+Every decision matters.
+
+Health is limited, danger is constant, and survival depends on how well the player manages resources while exploring the unknown.
+
+Collect healing potions, avoid enemy attacks, and continue moving forward before hope disappears completely.
+
+<div align="center">
+
+❤️ ✦ ☠️ ✦ ❤️
+
+*"The forest does not forgive mistakes."*
+
+</div>
 
 ---
 
 ## 👾 Intelligent Enemy AI
-Enemies patrol dark areas and begin chasing the player once detected.  
-Each encounter creates tension and forces the player to react quickly.
+
+You are never truly alone.
+
+Enemies patrol abandoned areas and begin chasing the player once detected, creating moments of tension, panic, and uncertainty.
+
+The deeper the player travels into the forest, the more oppressive and dangerous the environment becomes.
+
+<div align="center">
+
+🌲 👁️ 🌲 👁️ 🌲
+
+*"Something is always watching from the darkness."*
+
+</div>
 
 ---
 
 ## 🧠 Educational Survival Challenges
-Unlike traditional horror games, Souta introduces an interactive learning system.
 
-Throughout the adventure, the player will encounter **Yes / No survival questions** related to:
+Unlike traditional horror games, Souta transforms learning into part of the gameplay experience.
 
-- 🌿 Nature  
-- 🧬 Biology  
-- 🏕️ Survival knowledge  
+During the adventure, mysterious **Yes / No survival questions** will appear related to:
+
+<div align="center">
+
+🌿 Nature  
+🧬 Biology  
+🏕️ Survival Knowledge  
+
+</div>
 
 Correct answers reward the player with healing and advantages.  
-Wrong answers increase danger and make survival even harder.
+Wrong answers increase danger and bring Souta closer to defeat.
 
-This mechanic transforms knowledge into a core gameplay element.
+<div align="center">
+
+🧠 ✨ 🌿 ✨ 🧠
+
+*"In this forest... knowledge can save your life."*
+
+</div>
 
 ---
 
 ## 🌌 Atmospheric Pixel Art World
-Explore a mysterious pixel-art forest inspired by retro adventure games.
 
-Dark environments, glowing paths, and atmospheric scenery create an immersive experience full of mystery and loneliness.
+Explore a mysterious pixel-art world inspired by retro horror adventures.
+
+Foggy forests, glowing lights, abandoned paths, and eerie silence create an immersive atmosphere full of loneliness, tension, and hidden stories.
+
+Every area was designed to make the player feel lost inside a world consumed by darkness.
+
+<div align="center">
+
+🌙 ───── ✦ ───── 🌙
+
+*"Not every light leads you home."*
+
+</div>
 
 ---
 
-# 🛠️ Built With
+<div align="center">
 
-<p align="center">
+# 🛠️ Developed With
 
 <img src="https://skillicons.dev/icons?i=unity,cs,git,github,vscode"/>
 
-</p>
+Unity 2D • C# • Visual Studio Code • GitHub
 
-<p align="center">
-Unity 2D • C# • GitHub • Visual Studio Code
-</p>
+</div>
 
 ---
+
+<div align="center">
 
 # 🏠 Final Destination
 
-<p align="center">
-  <img src="Assets/EscenasDeco/bannerfinal.png" width="85%" />
-</p>
+<img src="Assets/EscenasDeco/bannerfinal.png" width="85%" />
 
-<p align="center">
-✨ After crossing the darkness of the forest, Souta finally finds peace in the warmth of the cabin. ✨
-</p>
+✨ After surviving the darkness of the forest, Souta finally reaches the warmth of the cabin. ✨
 
-<p align="center">
 <i>
-“Every lost path eventually leads to a place called home.”
+“Sometimes the most difficult journeys are the ones that finally lead us home.”
 </i>
-</p>
+
+</div>
 
 ---
 
-# 🚀 Project Status
+<div align="center">
 
-🛠️ Currently under development  
-📱 Planned for PC & Mobile devices  
-🌲 Expanding gameplay, enemies, and environments  
-✨ Continuously improving visual atmosphere and mechanics  
+# 🚧 Development Status
+
+🌲 Expanding the game world  
+👾 Adding more enemies and mechanics  
+📱 Planned for PC & Mobile  
+✨ Improving atmosphere and storytelling  
+
+</div>
 
 ---
+
+<div align="center">
 
 # 👩‍💻 Developer
 
@@ -116,24 +201,39 @@ Created with 💗 by **Alejandra Trujillo**
 
 🎨 UX/UI Designer  
 💻 Systems Engineering Student  
-🌸 Indie Game & Frontend Developer  
+🌸 Indie Game Developer  
 
-GitHub:
-👉 https://github.com/alejandra-dev-creator
+<a href="https://github.com/alejandra-dev-creator">
+<img src="https://img.shields.io/badge/GitHub-8BE9FD?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
 
 ---
+
+<div align="center">
 
 # ⚠️ Assets & Credits
 
-Some sprites, backgrounds, and visual resources used in this project were obtained from creators on itch.io and are used for educational and non-commercial purposes.
+Some sprites, decorations, and visual resources used in this project  
+were obtained from talented creators on itch.io  
+and are used for educational and non-commercial purposes.
+
+</div>
 
 ---
 
-# 🌸 Final Message
+<div align="center">
 
-> “Not every path leads home...  
-> but every step reveals the truth hidden in the forest.”
+# 🌸 Final Words
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,100:1C2541&height=140&section=footer"/>
-</p>
+🌲✨ Thanks for entering the forest... ✨🌲
+
+<i>
+“Not every lost path is meant to destroy you...  
+some exist to help you discover who you truly are.”
+</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,100:1C2541&height=140&section=footer"/>
+
+</div>
